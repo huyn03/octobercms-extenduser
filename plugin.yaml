@@ -1,0 +1,6 @@
+plugin:
+    name: 'drhuy.extendsuser::lang.plugin.name'
+    description: 'drhuy.extendsuser::lang.plugin.description'
+    author: drhuy
+    icon: oc-icon-adn
+    homepage: ''
